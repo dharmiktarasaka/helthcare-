@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /crm
+Disallow: /dashboard
+
+Sitemap: https://lunara.tarasaka.com/sitemap.xml
